@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StartAndroidLessonsOfAndroid</string>
+    <string name="source_startandroid">Материалы взяты с сайта: http://startandroid.ru</string>
+    <string name="source_fandroid_info">материалы взяты с сайта: http://www.fandroid.info</string>
+
+</resources>
